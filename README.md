@@ -53,3 +53,21 @@ Welcome to Wizardify!!!!!!!!!!
 [![GitHub Abhishek](https://img.shields.io/github/followers/DOOMSTERR?label=follow&style=social)](https://github.com/DOOMSTERR)
 
 
+
+
+# 🐾 My Github Stats 📊
+![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=Dev-Wizard&count_private=true&show_icons=true&theme=midnight-purple&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Wizard&layout=compact&langs_count=8&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
+
+
+
+
+
+
+
+
